@@ -18,6 +18,7 @@ class MyApp extends StatelessWidget {
           secondary: const Color.fromRGBO(99, 98, 133, 1),
         ),
         canvasColor: const Color.fromRGBO(24, 18, 43, 1),
+        useMaterial3: false,
         /*iconTheme: const IconThemeData(
           color: Colors.white,
           size: 90
